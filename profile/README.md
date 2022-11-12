@@ -4,4 +4,4 @@
 
 ## A decentralized infrastructure development model that focuses on open collaboration applying relative lessons learned from software development practices that organizations can use internally at scale.
 
-[Documentation](https://docs.osinfra.io)
+- [docs.osinfra.io](https://docs.osinfra.io)
