@@ -14,5 +14,4 @@ Open Source Infrastructure (as Code) is a decentralized infrastructure developme
 
 #### Resources
 
-- [www.osinfra.io](https://www.osinfra.io)
 - [docs.osinfra.io](https://docs.osinfra.io)
