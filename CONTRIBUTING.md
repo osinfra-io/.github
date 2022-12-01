@@ -1,6 +1,6 @@
 # Contributing
 
-We are looking for active contributors who want to help, teach or learn more about Infrastructure as Code. Infrastructure as Code with sensible default practices should be foundational to any modern-day system.
+We are looking for active contributors who want to help, teach or learn more about Infrastructure as Code. Infrastructure as Code with sensible default practices is fundamental to any modern-day system.
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this organization before making a change.
