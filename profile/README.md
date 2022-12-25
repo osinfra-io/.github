@@ -6,7 +6,7 @@
 
 **Infrastructure** is the set of systems and underlying resources that serve an organization and encompasses the services necessary for its teams and applications to function.
 
-The term "**as code**," means applying the relative lessons learned in the software world to infrastructure. Some critical practices include source control, balancing the KISS and DRY principles, supportability, automated testing, and continuous delivery. 
+The term "**as code**," means applying the relative lessons learned in the software world to infrastructure. Some critical practices include source control and clean code for readability, changeability, extensibility, and maintainability, along with automated testing and continuous delivery.
 
 ### Open Source Infrastructure (as Code)
 
