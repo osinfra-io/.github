@@ -14,5 +14,6 @@ Open Source Infrastructure (as code) is a development model for infrastructure t
 
 #### Resources
 
-- [discord.com](https://discord.gg/QMC5PGY8rJ)
+- [osinfra.io](https://www.osinfra.io)
 - [docs.osinfra.io](https://docs.osinfra.io)
+- [discord.com](https://discord.gg/QMC5PGY8rJ)
