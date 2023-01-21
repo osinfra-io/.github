@@ -5,4 +5,4 @@ We are looking for active contributors who want to help, teach or learn more abo
 When contributing, please first discuss the change you wish to make via issue,
 [email](mailto:help@osinfra.io), [Discord](https://discord.gg/QMC5PGY8rJ), or any other method with the organization's owners before making a change.
 
-Please note we have a [code of conduct](CODE_OF_CONDUCT); please follow it in all your interactions with the project.
+Please note we have a [code of conduct](CODE_OF_CONDUCT.md); please follow it in all your interactions with the project.
