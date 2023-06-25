@@ -8,6 +8,8 @@
 
 The term "**as code**," means applying the relative lessons learned in the software world to infrastructure. Some critical practices include source control and clean code for readability, changeability, extensibility, and maintainability, along with automated testing and continuous delivery.
 
+Infrastructure as Code is a crucial and indispensable element of Platform engineering.
+
 ### Open Source Infrastructure (as Code)
 
 Open Source Infrastructure (as code) is a development model for infrastructure that focuses on open collaboration applying relative lessons learned from software development practices that organizations can use internally at scale.
