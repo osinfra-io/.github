@@ -11,4 +11,4 @@
 
 ## Email
 
-- [support@osinfra.io](mailto:support@osinfra.io)
+- [help@osinfra.io](mailto:help@osinfra.io)
