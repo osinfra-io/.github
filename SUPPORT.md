@@ -8,6 +8,7 @@
 ## Community
 
 - [discord.gg](https://discord.gg/QMC5PGY8rJ)
+- [github.com](https://github.com/orgs/osinfra-io/discussions/categories/q-a)
 
 ## Email
 
