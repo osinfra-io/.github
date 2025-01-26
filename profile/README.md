@@ -12,7 +12,7 @@ The term "**as code**," means applying the relative lessons learned in the softw
 
 ## 🔩 Open Source Infrastructure (as Code)
 
-Open Source Infrastructure (as code) is a development model for infrastructure that focuses on open collaboration and applying relative lessons learned from software development practices that organizations can use internally at scale.
+We are infrastructure as code engineers providing vendor-light solutions that organizations can use at scale. We value collaboration and learning out loud. Our goal is to deliver simple, secure, and supportable foundations that invest in your people and prioritize long-term success over short-term gains.
 
 ## 📂 Resources
 
