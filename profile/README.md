@@ -20,6 +20,3 @@ We are infrastructure as code engineers providing vendor-light solutions that or
 - [docs.osinfra.io](https://docs.osinfra.io)
 - [discord.com](https://discord.gg/QMC5PGY8rJ)
 
-### 🚀 Terraform
-
-- [child modules](https://docs.osinfra.io/fundamentals/tools/terraform/child-modules)
